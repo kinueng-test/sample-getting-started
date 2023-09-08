@@ -1,4 +1,4 @@
-# Contributing to Open Liberty Sample Getting Started
+# Contributing to Open Liberty Sample Getting Started 
 
 Anyone can contribute to the Sample Getting Started project and we welcome your contributions!
 
